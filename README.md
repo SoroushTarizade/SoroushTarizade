@@ -13,105 +13,98 @@ My goal is to become a professional Front-End Engineer by building real-world pr
 
 ## 👨‍💻 About Me
 
-🎓 Social Policy Student at University of Tehran
-
-💻 Front-End Developer specializing in React & Next.js
-
-🚀 Passionate about creating clean, maintainable and scalable user interfaces
-
-📚 Currently improving my Front-End architecture and TypeScript skills through real-world projects
-
-🎯 Looking for Junior Front-End Developer opportunities
+- 💻 Front-End Developer focused on React ecosystem
+- 🎓 Student at University of Tehran
+- 🚀 Passionate about building modern and scalable web applications
+- 🌱 Continuously improving my skills through real-world projects
+- 🎯 Open to Junior Front-End Developer opportunities
 
 ---
-
 ## 🛠 Tech Stack
 
 ### Languages
-
 - HTML5
 - CSS3
 - JavaScript (ES6+)
 - TypeScript
 
-### Frameworks & Libraries
-
-- React.js
+### Frameworks
+- React
 - Next.js
+
+### Styling
 - Tailwind CSS
 - Styled Components
 
 ### Data Fetching
-
 - Axios
 - React Query
 - SWR
 
 ### Forms
-
 - React Hook Form
 - Formik
 - Yup
 
 ### Tools
-
 - Git
 - GitHub
 - Vite
-
----
 
 ## 🚀 Featured Projects
 
 ### 🛒 Clothes Shop
 
-Modern E-commerce Front-End
+Modern E-Commerce Application
 
-✔ Authentication
+**Features**
 
-✔ Shopping Cart
+- Authentication
+- Shopping Cart
+- Product Search
+- Product Filtering
+- Responsive UI
 
-✔ Live Search
+**Tech Stack**
 
-✔ Responsive Design
+Next.js • React • Tailwind CSS • Axios
 
-✔ Product Filtering
+🔗 Live Demo
 
-✔ Fake Store API
+https://clotheshop.onrender.com
 
----
+🔗 Repository
 
-### 🌐 Personal Portfolio
-
-Modern Portfolio Website
-
-✔ Dark Mode
-
-✔ Responsive Design
-
-✔ Framer Motion
-
-✔ Modular Components
+https://github.com/SoroushTarizade/clotheshop
 
 ---
 
-## 🎯 Current Goals
+### 🌐 Portfolio
 
-- Build production-ready React applications
-- Master advanced TypeScript
-- Learn software architecture for Front-End
-- Contribute to Open Source
-- Start my professional career as a Front-End Developer
+Personal Portfolio Website
+
+**Features**
+
+- Responsive Design
+- Dark Mode
+- Framer Motion
+- Clean UI
+
+🔗 Live Demo
+
+https://YOUR-PORTFOLIO
+
+🔗 Repository
+
+https://github.com/SoroushTarizade/my-portfolio
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 📧 Email
 
-<a href="mailto:soroushtarizadeh7139@gmail.com">
-soroushtarizadeh7139@gmail.com
-</a>
+<a href="mailto:soroushtarizadeh7139@gmail.com">soroushtarizadeh7139@gmail.com</a>
 
 💼 LinkedIn
 
@@ -119,8 +112,15 @@ https://linkedin.com/in/soroush-tarizadeh
 
 🌐 Portfolio
 
-https://my-portfolio-hda7.onrender.com
+https://YOUR-PORTFOLIO
 
 🐙 GitHub
 
 https://github.com/SoroushTarizade
+
+## 🎯 Current Goals
+
+- Build production-ready React applications
+- Improve Front-End architecture skills
+- Contribute to Open Source
+- Land my first Front-End Developer role
