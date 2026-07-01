@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="86c0dc3f-facc-4608-8768-e479ec49b268.png" alt="Soroush Tarizadeh Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Soroush Tarizadeh</h1>
 
 <h3 align="center">
