@@ -95,7 +95,7 @@ Personal Portfolio Website
 
 🔗 Live Demo
 
-https://YOUR-PORTFOLIO
+https://my-portfolio-hda7.onrender.com
 
 🔗 Repository
 
@@ -115,7 +115,7 @@ https://linkedin.com/in/soroush-tarizadeh
 
 🌐 Portfolio
 
-https://YOUR-PORTFOLIO
+https://my-portfolio-hda7.onrender.com
 
 🐙 GitHub
 
