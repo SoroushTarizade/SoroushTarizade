@@ -95,7 +95,7 @@ Personal Portfolio Website
 
 🔗 Live Demo
 
-https://soroush-portfolio.onrender.com/
+https://soroushtarizadeh.vercel.app/
 
 🔗 Repository
 
@@ -115,7 +115,7 @@ https://linkedin.com/in/soroush-tarizadeh
 
 🌐 Portfolio
 
-https://soroush-portfolio.onrender.com/
+https://soroushtarizadeh.vercel.app/
 
 🐙 GitHub
 
